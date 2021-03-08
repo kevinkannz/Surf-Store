@@ -182,8 +182,8 @@ h4 {
 }
 
 i {
-    text-shadow: 10px 5px 20px #7a7a7a;
-    color: #3a3a3a;
+    text-shadow: 10px 5px 20px #2c2c2c;
+    color: #1d0f0f;
 }
 
 #ignore {
@@ -217,7 +217,7 @@ footer {
 }
 
 hr {
-    border: 3px solid #3a3a3a;
+    border: 3px solid #2c2c2c;
     border-radius: 10px;
     width: 100%;
     margin-left: 110px;
