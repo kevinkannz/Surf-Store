@@ -23,7 +23,7 @@ h2 {
     text-align: center;
     margin-top: -50px;
     text-align: center;
-    color: #03071e;
+    color: #000000a2;
     margin-right: -200px;
     text-shadow: 2px 2px 25px #6d6d6d;
 }
@@ -32,7 +32,7 @@ h3 {
     font-size: 75px;
     font-family: 'Permanent Marker', cursive;
     text-align: center;
-    color: #03071e;
+    color: #00000083;
     margin-bottom: 30px;
     text-shadow: 2px 2px 25px #6d6d6d;
 }
@@ -41,7 +41,7 @@ h5 {
     font-family: 'Permanent Marker', cursive;
     text-align: center;
     text-shadow: 3px 3px 5px #6d6d6d;
-    color: #03071e;
+    color: #070707b6;
     font-size: 25px;
 }
 
@@ -217,7 +217,7 @@ footer {
 }
 
 hr {
-    border: 3px solid #2c2c2c;
+    border: 3px solid #00000080;
     border-radius: 10px;
     width: 100%;
     margin-left: 110px;
