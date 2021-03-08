@@ -140,6 +140,11 @@ h4 {
     margin-top: 10px;
     color: #fff;
     font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+}
+
+.nav-link {
+    font-family: 'RocknRoll One', sans-serif;
 }
 
 .fas {
