@@ -223,3 +223,7 @@ hr {
     margin-left: 110px;
     margin-top: -10px;
 }
+
+.dropdown-divider {
+    border: .5px dotted #3a3a3a;
+}
