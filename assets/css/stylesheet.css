@@ -215,3 +215,11 @@ footer {
 .btn:hover {
     background-color: #858585;
 }
+
+hr {
+    border: 3px solid #3a3a3a;
+    border-radius: 10px;
+    width: 100%;
+    margin-left: 110px;
+    margin-top: -10px;
+}
