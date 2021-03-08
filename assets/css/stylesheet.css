@@ -5,6 +5,7 @@
     background-size: 100%;
     color: white;
     height: 700px;
+    box-shadow: 5px 10px 20px black;
 }
 
 h1 {
@@ -12,6 +13,7 @@ h1 {
     font-family: 'Permanent Marker', cursive;
     font-size: 120px;
     text-align: center;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 h2 {
@@ -22,6 +24,7 @@ h2 {
     margin-top: -50px;
     text-align: center;
     margin-right: -200px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 h3 {
@@ -29,11 +32,13 @@ h3 {
     font-family: 'Permanent Marker', cursive;
     text-align: center;
     margin-bottom: 30px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 h5 {
     font-family: 'Permanent Marker', cursive;
     text-align: center;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 #brands {
@@ -57,6 +62,7 @@ h5 {
     background-image: url(../img/Unknown.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+    box-shadow: 5px 10px 20px black;
 }
 
 p {
@@ -96,6 +102,7 @@ p {
 
 .card {
     margin-left: 80px;
+    box-shadow: 0px 10px 30px 10px #888888;
 }
 
 #textCards {
@@ -134,6 +141,7 @@ p {
     width: 350px;
     padding: 30px;
     border: 20px solid #fff;
+    box-shadow: 20px 20px 20px black;
 }
 
 h4 {
@@ -141,6 +149,7 @@ h4 {
     color: #fff;
     font-family: 'Permanent Marker', cursive;
     font-size: 45px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .nav-link {
