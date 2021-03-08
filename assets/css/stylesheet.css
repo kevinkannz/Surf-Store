@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=RocknRoll+One&display=swap');
+#banner {
+    background-image: url(../img/surfer.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    height: 700px;
+}
+
+h1 {
+    padding: 90px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 120px;
+    text-align: center;
+}
+
+h2 {
+    padding: 90px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 75px;
+    text-align: center;
+    margin-top: -50px;
+    text-align: center;
+    margin-right: -200px;
+}
+
+h3 {
+    font-size: 75px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h5 {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+#brands {
+    margin-top: -100px;
+    text-align: center;
+}
+
+#BrandsPad {
+    padding: 20px
+}
+
+#sobreNosotros {
+    height: 500px;
+}
+
+#surferTwo {
+    height: 1000px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: -100px;
+    background-image: url(../img/Unknown.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+p {
+    text-align: center;
+    margin: 20px;
+    font-size: medium;
+    margin-top: -70px;
+    margin-right: -200px;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+#redes {
+    display: inline-block;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    margin-right: -200px;
+    margin-top: 30px;
+}
+
+#redes a {
+    margin: 15px;
+    color: black;
+}
+
+#tablas {
+    margin-top: 600px;
+}
+
+#card {
+    width: 30px;
+    height: 40px;
+}
+
+.card {
+    margin-left: 80px;
+}
+
+#textCards {
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+#textReseña {
+    margin: 0px;
+    color: #fff;
+    font-style: italic;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+#venta {
+    align-items: center;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+#boton {
+    margin-top: 20px;
+}
+
+#reseñas {
+    background-image: linear-gradient(#232526, #414345);
+    background-size: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+#imgReseña {
+    border-radius: 50%;
+    width: 350px;
+    padding: 30px;
+    border: 20px solid #fff;
+}
+
+h4 {
+    margin-top: 10px;
+    color: #fff;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.fas {
+    color: yellow;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+#clientes {
+    color: #fff;
+}
+
+#margin {
+    margin-top: 80px;
+}
