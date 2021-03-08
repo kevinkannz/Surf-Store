@@ -32,7 +32,7 @@ h3 {
     font-size: 75px;
     font-family: 'Permanent Marker', cursive;
     text-align: center;
-    color: #00000083;
+    color: #000000ad;
     margin-bottom: 30px;
     text-shadow: 2px 2px 25px #6d6d6d;
 }
@@ -139,6 +139,12 @@ nav {
 #boton {
     margin-top: 20px;
     box-shadow: 0px 2px 30px 2px #888888;
+    color: white;
+    background-color: #000000;
+}
+
+#boton:hover {
+    background-color: #888888;
 }
 
 #reseñas {
