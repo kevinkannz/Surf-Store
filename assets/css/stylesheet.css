@@ -259,6 +259,7 @@ hr {
         text-align: center;
     }
     #banner {
+        margin-top: 5px;
         background-image: url(../img/surfer.jpg);
         background-repeat: no-repeat;
         background-size: 100%;
@@ -284,7 +285,7 @@ hr {
         text-align: center;
         margin-top: -5px;
         text-align: center;
-        color: #fffefec0;
+        color: #fffefe;
         margin-right: -290px;
         text-shadow: 2px 2px 25px #6d6d6d;
     }
@@ -363,7 +364,8 @@ hr {
         color: rgb(245, 245, 245);
     }
     nav {
-        box-shadow: 0px 0px 0px 0px #ffffff;
+        margin: 7px;
+        box-shadow: 2px 10px 30px 10px #2c2c2c;
     }
     hr {
         border: 3px solid #f7f7f7d3;
